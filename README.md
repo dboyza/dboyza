@@ -1,4 +1,4 @@
-Hi 👋 My name is Dylan Boyza
+Hi 👋 I'm Dylan Boyza
 ============================
 
 I am a Computer Science student at Penn State University and aspiring software engineer. I have fostered a love for technology ever since playing my first video game at a young age. Programming has been a skill I have been constantly been trying to improve on since I started during high school and do not plan to stop any time soon. My college courses led me to become skilled in Java, C and gain experience in Windows and UNIX environments. I am currently learning the process of developing full stack web applications at my internship and in my free time!
