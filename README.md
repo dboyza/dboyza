@@ -1,13 +1,14 @@
-Hi 👋 I'm Dylan Boyza
+I'm Dylan Boyza
 ============================
 
-I am a Computer Science student at Penn State University and aspiring software engineer. I have fostered a love for technology ever since playing my first video game at a young age. Programming has been a skill I have been constantly been trying to improve on since I started during high school and do not plan to stop any time soon. My college courses led me to become skilled in Java, C and gain experience in Windows and UNIX environments. I am currently learning the process of developing full stack web applications at my internship and in my free time!
+- Motivated DevSecOps Engineer with considerable experience in cloud and on-prem infrastructure system
+administration. 
+- Demonstrated strength in delivering reliable, efficient solutions across diverse computer environments, coding complex programs, and scripting to automate menial tasks. 
+- Consistent success in driving agile team collaboration, onboarding new team members, and recognizing when work can be shadowed as a learning opportunity. 
+- Proficient at explaining multifaceted topics with clear logic and layman's terms to ensure a common understanding, fostering effective communication everywhere from coworkers to customers. 
+- Effective at being involved in complex tasks spanned across multiple team members requiring in depth coordination while maintaining focus on the end goal and ensuring all steps are taken until completion.
 
-* 🌍  I'm based in Pennsylvania
-* 🖥️  See my portfolio at [wixsite.com](http://dboyza19.wixsite.com/dboyza)
-* ✉️  You can contact me at [dboyza19@gmail.com](mailto:dboyza19@gmail.com)
-* 🧠  I'm learning Web Development, Data Structures & Algorithms
-* ⚡  I am also interested in video games and weightlifting!
+*  You can contact me at [dboyza19@gmail.com](mailto:dboyza19@gmail.com)
 
 ### Skills
 
