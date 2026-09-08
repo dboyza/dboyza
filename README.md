@@ -2,8 +2,6 @@
 
 AWS-certified DevSecOps engineer focused on secure cloud automation, system design, infrastructure as code, and AI-assisted engineering.
 
-I like building and automating things.
-
 ---
 
 ## Contact
